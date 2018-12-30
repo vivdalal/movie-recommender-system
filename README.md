@@ -11,6 +11,7 @@ Recommender systems are one of the most successful and widespread application of
       * Single Value Decomposition(SVD)
       * SVD++
   * Hybrid Model
+      * Content Based + SVD 
   
   ## Files contained in the project
   * movie_recommendation_system.ipynb : python notebook code file
